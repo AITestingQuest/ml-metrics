@@ -44,7 +44,6 @@ It's recommended to use a virtual environment to manage dependencies. You can in
 ```console
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-pip install -r requirements.txt
 ```
 
 ## Contributing
